@@ -1,0 +1,12 @@
+@startuml
+class App{
+    main()
+}
+
+class Plansza{
+    int rzedy;
+    int kolumny;
+}
+App<--Plansza
+Plansza<--Symbol
+@enduml
