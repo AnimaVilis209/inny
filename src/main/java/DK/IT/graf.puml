@@ -1,11 +1,9 @@
 @startuml
-class App{
-    main()
-}
 
 class Plansza{
     int rzedy;
     int kolumny;
+    ustawplansze()
 }
 App<--Plansza
 Plansza<--Symbol

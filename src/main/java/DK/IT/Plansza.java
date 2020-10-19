@@ -19,6 +19,6 @@ public class Plansza {
             }
             System.out.println();
         }
-        //tutaj robię zmianę
+        //1234
     }
 }
